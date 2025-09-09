@@ -9,4 +9,4 @@ I am making some sort of change to this.
 I did this on GitHub. 
 ## About Me
 Hi, I’m Edwin Rosales.
-I’m learning how to use GitHub Issues.
+I’m learning how to use GitHub Issues. 
