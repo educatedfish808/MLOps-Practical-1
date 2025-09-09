@@ -7,3 +7,6 @@ Author: Edwin Rosales
 I am making some sort of change to this. 
 ## Edited on GitHub Web
 I did this on GitHub. 
+## About Me
+Hi, I’m Edwin Rosales.
+I’m learning how to use GitHub Issues.
